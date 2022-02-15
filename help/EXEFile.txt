@@ -1,0 +1,6 @@
+Maybe when you run the software file you will get an error from CMD
+which is related to two things.
+One is that I created this file on my system
+and
+two for your Python software version.
+If you do not know that How to convert your Python file to a software file Be sure to look at another file in the help folder
