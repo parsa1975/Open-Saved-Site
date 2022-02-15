@@ -1,0 +1,6 @@
+In order for you to convert your Python file to a software file, you must do these 3 steps.
+Step 1, Run the following code in CMD.
+pip install pyinstaller
+Step 2, enter your folder (in CMD)
+And last step, run the following code that executes the conversion in that folder (in CMD)
+pyinstaller --onefile "Your File".py
