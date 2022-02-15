@@ -1,0 +1,2 @@
+This Python file requires os and pyautogui packages.
+You must have Firefox browser because this program is written in such a way that it opens this browser, otherwise it will give you an error.
